@@ -1,6 +1,6 @@
 # Hey There 👋
 
-I'm **Rana Saad**, studying at **Virtual University**.  
+I'm **Saad Mehmood**, studying at **Virtual University**.  
 I love building **web & mobile apps** using modern technologies.
 
 ---
